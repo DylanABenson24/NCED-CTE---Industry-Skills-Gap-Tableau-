@@ -1,4 +1,4 @@
-# NCED-CTE-Industry-Skills-Gap-Tableau-
+# NCED-CTE-Industry-Skills-Gap-Tableau
 
 https://public.tableau.com/app/profile/dylan.benson6228/viz/NCED_CTE_DylanBenson/Story1?publish=yes
 
