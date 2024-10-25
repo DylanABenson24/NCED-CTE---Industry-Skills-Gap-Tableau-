@@ -1,7 +1,6 @@
 # NCED-CTE-Industry-Skills-Gap-Tableau-
 
-[https://public.tableau.com/app/profile/dylan.benson6228/viz/NCED_CTE_DylanBenson/Story1?publish=yes
-](url)
+https://public.tableau.com/app/profile/dylan.benson6228/viz/NCED_CTE_DylanBenson/Story1?publish=yes
 
 This project focuses on utilizing Tableau to visualize key metrics that are directly correlated with the skills gap we see between Industry and the North Carolina Education System's Career and Technical Education Pathways. The data affiliated with this project is directly from NCED.
 
